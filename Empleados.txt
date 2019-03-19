@@ -1,0 +1,22 @@
+	Empleados
+
+Empleado: 0
+	Nombre: msdkl
+	Cedula: 123
+	Direccion: 244
+	Celular: 21
+
+
+Empleado: 1
+	Nombre: msdkl
+	Cedula: 123
+	Direccion: 244
+	Celular: 21
+
+
+Empleado: 2
+	Nombre: msdkl
+	Cedula: 1234
+	Direccion: 244
+	Celular: 21
+
